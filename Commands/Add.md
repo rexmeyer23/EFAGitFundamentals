@@ -11,3 +11,9 @@ You can track changes to specific files using `git add file1 file2`which will tr
 You can specify tacking directories with `git add DirectoryName`.
 
 ## Resources
+
+- [Git Add Documentation](https://git-scm.com/docs/git-add)
+
+---
+
+[Back to home](../README.md)
